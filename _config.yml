@@ -96,7 +96,7 @@ author:
   name: "DongDong"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "프로그래밍, 독서 등 평소 관심있는 것들을 정리하는 공간"
-  location: "Somewhere"
+  location: "대한민국"
   email:
   links:
     - label: "Email"
